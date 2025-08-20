@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+print("Hello, " + name + "!")
+favorite_food = input("What is your favorite food?: ")
+print("I like " + favorite_food + " too!")
+favorite_music = input("What is your favorite music?: ")
+print("Oh, " + favorite_music + " is really good!")
+print(f"So you are {name} and you really like {favorite_food} as food and you love vibing with {favorite_music}. You rock it guy!")
